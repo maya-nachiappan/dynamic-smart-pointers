@@ -10,7 +10,8 @@
 #include <memory> // For shared_ptr
 #include <vector> // For vector
 
-int main()
+
+int main() 
 {
     print();
     return 0;
